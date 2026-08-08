@@ -1,4 +1,17 @@
 [
-    {"id": "r101", "room": "room 101", "capacity": "60"},
-    {"id": "l201", "room": "lab 201", "capacity": "30"}
+    {
+        "id": "r101",
+        "room": "room 101",
+        "capacity": "60"
+    },
+    {
+        "id": "l201",
+        "room": "lab 201",
+        "capacity": "30"
+    },
+    {
+        "id": "l203",
+        "room": "cloud lab 203",
+        "capacity": 45
+    }
 ]
