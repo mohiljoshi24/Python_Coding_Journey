@@ -13,5 +13,10 @@
         "id": "l203",
         "room": "cloud lab 203",
         "capacity": 45
+    },
+    {
+        "id": "r301",
+        "room": "auditorium 301",
+        "capacity": 100
     }
 ]
