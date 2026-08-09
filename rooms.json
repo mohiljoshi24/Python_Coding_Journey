@@ -18,5 +18,10 @@
         "id": "r301",
         "room": "auditorium 301",
         "capacity": 100
+    },
+    {
+        "id": "room_id",
+        "room": "room_type",
+        "capacity": 70
     }
 ]
