@@ -1,27 +1,32 @@
 [
     {
         "id": "r101",
-        "room": "room 101",
-        "capacity": "60"
+        "name": "room 101",
+        "capacity": 60
     },
     {
         "id": "l201",
-        "room": "lab 201",
-        "capacity": "30"
+        "name": "lab 201",
+        "capacity": 30
     },
     {
         "id": "l203",
-        "room": "cloud lab 203",
+        "name": "cloud lab 203",
         "capacity": 45
     },
     {
         "id": "r301",
-        "room": "auditorium 301",
+        "name": "auditorium 301",
         "capacity": 100
     },
     {
         "id": "room_id",
-        "room": "room_type",
+        "name": "room_type",
         "capacity": 70
+    },
+    {
+        "id": "R501",
+        "name": "Executive Seminar Hall",
+        "capacity": 80
     }
 ]
